@@ -1,0 +1,17 @@
+Cutebox is a Google Wave gadget that lets you draw, drag, and resize windowlike boxes collaboratively with your Wave friends.
+
+To use:
+
+Create a wave in the Google Wave sandbox.
+Add another person to the wave.
+Upload cuteboxes.xml to a web-accessible place.  Add the gadget to the wave (from Debug > Extensions > Add Gadget...)
+
+Click to draw new cuteboxes.  Drag them by their middles.  Resize them with the lower-right corner resizer handle.
+As you do this, the other person will see the cuteboxes syncing up.
+
+
+Have fun & keep me updated :)
+Audrey M. Roy
+aroy@alum.mit.edu
+twitter: @audreyr
+
